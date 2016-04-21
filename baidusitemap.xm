@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://alinwei.com/2016/04/21/%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87/</loc>
-    <lastmod>2016-04-21T12:53:48.569Z</lastmod>
+    <lastmod>2016-04-21T13:17:44.175Z</lastmod>
     <data>
         <display>
         <title>重新来过</title>
