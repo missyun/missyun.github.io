@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/04/16/hello-world/</loc>
+    <loc>http://alinwei.com/2016/04/16/hello-world/</loc>
     <lastmod>2016-04-20T08:41:20.002Z</lastmod>
     <data>
         <display>
