@@ -4,15 +4,35 @@
 
     
   <url>
-    <loc>http://alinwei.com/2016/04/21/%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87/</loc>
-    <lastmod>2016-04-21T13:17:44.175Z</lastmod>
+    <loc>http://alinwei.com/2016/04/22/wordpress%E6%90%AC%E5%AE%B6%E5%88%B0hexo/</loc>
+    <lastmod>2016-04-22T08:03:41.994Z</lastmod>
     <data>
         <display>
-        <title>重新来过</title>
-        <pubTime>2016-04-21T12:52:16.000Z</pubTime>
+        <title>wordpress搬家到hexo</title>
+        <pubTime>2016-04-22T06:38:05.000Z</pubTime>
         
         <tag>hexo</tag>
          
+        <tag>wordpress</tag>
+         
+         
+           
+             
+              <breadCrumb title="瞎折腾" url="http://alinwei.com/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://alinwei.com/2016/04/16/hello-world/</loc>
+    <lastmod>2016-04-22T06:21:41.235Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-04-16T14:58:35.569Z</pubTime>
+        
          
            
         </display>
@@ -21,13 +41,15 @@
 
     
   <url>
-    <loc>http://alinwei.com/2016/04/16/hello-world/</loc>
-    <lastmod>2016-04-20T08:41:20.002Z</lastmod>
+    <loc>http://alinwei.com/2016/04/21/%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87/</loc>
+    <lastmod>2016-04-22T06:20:42.883Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2016-04-16T14:58:35.569Z</pubTime>
+        <title>重新来过</title>
+        <pubTime>2016-04-21T12:52:16.000Z</pubTime>
         
+        <tag>hexo</tag>
+         
          
            
         </display>
