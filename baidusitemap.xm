@@ -3,9 +3,10 @@
 
 
     
+    
   <url>
-    <loc>http://alinwei.com/2016/04/22/wordpress%E6%90%AC%E5%AE%B6%E5%88%B0hexo/</loc>
-    <lastmod>2016-04-22T08:03:41.994Z</lastmod>
+    <loc>/2016/04/22/wordpress%E6%90%AC%E5%AE%B6%E5%88%B0hexo/</loc>
+    <lastmod>2016-04-22T09:01:57.827Z</lastmod>
     <data>
         <display>
         <title>wordpress搬家到hexo</title>
@@ -18,7 +19,7 @@
          
            
              
-              <breadCrumb title="瞎折腾" url="http://alinwei.com/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
+              <breadCrumb title="瞎折腾" url="/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
           
         </display>
     </data>
@@ -26,7 +27,7 @@
 
     
   <url>
-    <loc>http://alinwei.com/2016/04/16/hello-world/</loc>
+    <loc>/2016/04/16/hello-world/</loc>
     <lastmod>2016-04-22T06:21:41.235Z</lastmod>
     <data>
         <display>
@@ -41,7 +42,7 @@
 
     
   <url>
-    <loc>http://alinwei.com/2016/04/21/%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87/</loc>
+    <loc>/2016/04/21/%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87/</loc>
     <lastmod>2016-04-22T06:20:42.883Z</lastmod>
     <data>
         <display>
@@ -56,7 +57,6 @@
     </data>
     </url>
 
-    
     
     
 </urlset>
