@@ -3,10 +3,9 @@
 
 
     
-    
   <url>
     <loc>/2016/04/22/wordpress%E6%90%AC%E5%AE%B6%E5%88%B0hexo/</loc>
-    <lastmod>2016-04-22T09:01:57.827Z</lastmod>
+    <lastmod>2016-04-27T09:30:11.952Z</lastmod>
     <data>
         <display>
         <title>wordpress搬家到hexo</title>
@@ -25,6 +24,7 @@
     </data>
     </url>
 
+    
     
   <url>
     <loc>/2016/04/16/hello-world/</loc>
